@@ -1,31 +1,67 @@
-.. Atz Togo documentation master file, created by
-   sphinx-quickstart on Mon Nov 16 00:25:19 2009.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Atsushi Togo
 =============
 
-* `Elements Strategy Initiative for Structural Materials (ESISM) <http://esism.kyoto-u.ac.jp/en/index.html>`_ ,Kyoto University
-
-* I develop scientific codes related to condensed matter physics to
-  help development of codes for crystals and analyzing materials.
+Program-specific associate professor at `Elements Strategy Initiative for Structural Materials (ESISM) <http://esism.kyoto-u.ac.jp/en/index.html>`_ ,Kyoto University
 
 |anime|
-
-.. |at| image:: at.png
-        :scale: 100
 
 .. |anime| image:: anime25.gif
            :scale: 100
 
-.. toctree::
-   :maxdepth: 1
+Research interest
+------------------
 
-   scientific-codes
-   .. research-interest
-   publications
-   .. cluster
-   .. pc-setting
+* Anharmonicity of crystals.
+* Transition pathways among crystal structural phases.
 
-* E-mail: atz.togo |at| gmail.com
+Associated scientific codes (open source projects)
+---------------------------------------------------
+
+* phonopy_: Phonon calculator and analyzer written in Python
+* qsushi_: Automation environment for crystal simulations written in Python
+* spglib_: Crsytal symmetry finder written in C
+* niggli_: Determination of Niggli cell written in C
+
+.. _phonopy: http://phonopy.sf.net
+.. _qsushi: http://qsushi.sf.net
+.. _niggli: http://atztogo.github.com/niggli/
+.. _spglib: http://spglib.sf.net
+
+
+Publications
+-------------
+
+*  "Phonon-phonon interactions in transition metals"
+     Laurent Chaput, Atsushi Togo, Isao Tanaka, Gilles Hug,
+     Phys. Rev. B, **84**, 094302-1-6 (2011)
+
+*  "First-principles phonon calculations of thermal expansion in Ti3SiC2, Ti3AlC2, and Ti3GeC2"
+     Atsushi Togo, Laurent Chaput, Isao Tanaka, Gilles Hug,
+     Phys. Rev. B, **81**, 174301-1-6 (2010)
+
+*  "Doping of hexagonal boron nitride via intercalation: A theoretical prediction"
+     Fumiyasu Oba, Atsushi Togo, Isao Tanaka, Kenji Watanabe, and
+     Takashi Taniguchi,
+     Phys. Rev. B, **81**, 075125-1-6 (2010).
+
+*  "First-principles calculations of the ferroelastic transition between rutile-type and CaCl2-type SiO2 at high pressures"
+     Atsushi Togo, Fumiyasu Oba, and Isao Tanaka,
+     Phys. Rev. B, **78**, 134106-1-9 (2008).
+
+*  "Defect energetics in ZnO: A hybrid Hartree-Fock density functional study"
+     Fumiyasu Oba, Atsushi Togo, Isao Tanaka, Joachim Paier, and Georg
+     Kresse,
+     Phys. Rev. B, **77**, 245202-1-6 (2008).
+
+*  "Transition pathway of CO2 crystals under high pressures"
+     Atsushi Togo, Fumiyasu Oba, and Isao Tanaka,
+     Phys. Rev. B, **77**, 184101-1-5 (2008).
+
+*  "Structure and stability of homologous series of tin oxides"
+     Atsuto Seko, Atsushi Togo, Fumiyasu. Oba, and Isao. Tanaka,
+     Phys. Rev. Lett., **100**, 045702-1-4 (2008).
+
+Contact
+-------
+
+E-mail: atz.togo@gmail.com
