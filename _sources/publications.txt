@@ -55,8 +55,3 @@ Publications
 
    Phys. Rev. B 74, 195128-1-8 (2006).
 
-
-.. |sflogo| image:: http://sflogo.sourceforge.net/sflogo.php?group_id=161614&type=1
-            :target: http://sourceforge.net
-
-|sflogo|

@@ -6,7 +6,7 @@
 Atsushi Togo
 =============
 
-* A post-doc of Tanaka group in Department of Materials Science and Engineering Kyoto University
+* `Elements Strategy Initiative for Structural Materials (ESISM) <http://esism.kyoto-u.ac.jp/en/index.html>`_ ,Kyoto University
 
 * I develop scientific codes related to condensed matter physics to
   help development of codes for crystals and analyzing materials.
@@ -29,8 +29,3 @@ Atsushi Togo
    .. pc-setting
 
 * E-mail: atz.togo |at| gmail.com
-
-.. |sflogo| image:: http://sflogo.sourceforge.net/sflogo.php?group_id=161614&type=1
-            :target: http://sourceforge.net
-
-|sflogo|
