@@ -1,7 +1,6 @@
 Atsushi Togo
-=============
-
-Program-specific associate professor at `Elements Strategy Initiative for Structural Materials (ESISM) <http://esism.kyoto-u.ac.jp/en/index.html>`_ ,Kyoto University
+=====================
+Computational materials scientist | Program-specific associate professor at `Elements Strategy Initiative for Structural Materials (ESISM) <http://esism.kyoto-u.ac.jp/en/index.html>`_ ,Kyoto University.
 
 |anime|
 
@@ -64,4 +63,4 @@ Publications
 Contact
 -------
 
-E-mail: atz.togo@gmail.com
+* atz.togo@gmail.com (for code development), togo.atsushi@gmail.com
