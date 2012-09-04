@@ -64,3 +64,4 @@ Contact
 -------
 
 * atz.togo@gmail.com (for code development), togo.atsushi@gmail.com
+* https://github.com/atztogo
