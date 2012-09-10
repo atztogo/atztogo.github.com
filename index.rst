@@ -17,13 +17,13 @@ Associated scientific codes (open source projects)
 ---------------------------------------------------
 
 * phonopy_: Phonon calculator and analyzer written in Python
-* qsushi_: Automation environment for crystal simulations written in Python
+* cogue_: Automation environment for crystal simulations written in Python
 * spglib_: Crsytal symmetry finder written in C
 * niggli_: Determination of Niggli cell written in C
 
 .. _phonopy: http://phonopy.sf.net
-.. _qsushi: http://qsushi.sf.net
-.. _niggli: http://atztogo.github.com/niggli/
+.. _cogue: https://github.com/atztogo/cogue
+.. _niggli: http://atztogo.github.com/niggli
 .. _spglib: http://spglib.sf.net
 
 
