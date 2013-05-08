@@ -30,6 +30,10 @@ Associated scientific codes (open source projects)
 Publications
 -------------
 
+*  "Evolution of crystal structures in metallic elements"
+     Atsushi Togo, Isao Tanaka,
+     Phys. Rev. B, **87**, 184104-1-6 (2013)
+
 *  "Phonon-phonon interactions in transition metals"
      Laurent Chaput, Atsushi Togo, Isao Tanaka, Gilles Hug,
      Phys. Rev. B, **84**, 094302-1-6 (2011)
