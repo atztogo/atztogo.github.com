@@ -30,6 +30,18 @@ Associated scientific codes (open source projects)
 Publications
 -------------
 
+*  "Thermal physics of the lead chalcogenides PbS, PbSe, and PbTe from first principles"
+     Jonathan M. Skelton, Stephen C. Parker, Atsushi Togo, Isao Tanaka, and Aron Walsh,
+     Phys. Rev. B **89**, 205203-1-10 (2014)
+
+*  "Inversion Symmetry Breaking by Oxygen Octahedral Rotations in the Ruddlesden-Popper NaRTiO4 Family"
+     Hirofumi Akamatsu, Koji Fujita, Toshihiro Kuge, Arnab Sen Gupta, Atsushi Togo, Shiming Lei, Fei Xue, Greg Stone, James M. Rondinelli, Long-Qing Chen, Isao Tanaka, Venkatraman Gopalan, and Katsuhisa Tanaka
+     Phys. Rev. Lett. **112**, 187602-1-5 (2014)
+
+*  "High-pressure torsion of titanium at cryogenic and room temperatures: Grain size effect on allotropic phase transformations"
+     Kaveh Edalati, Takeshi Daio, Makoto Arita, Seungwon Lee, Zenji Horita, Atsushi Togo, and Isao Tanaka
+     Acta Materialia, **68**, 207–1-7 (2014)
+   
 *  "Evolution of crystal structures in metallic elements"
      Atsushi Togo and Isao Tanaka,
      Phys. Rev. B, **87**, 184104-1-6 (2013)
