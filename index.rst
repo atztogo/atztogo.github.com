@@ -30,6 +30,10 @@ Associated scientific codes (open source projects)
 Publications
 -------------
 
+*  "Ab initio ORTEP drawings: a case study of N-based molecular crystals with different chemical nature"
+     Volker L. Deringer, Ralf P. Stoffel, Atsushi Togo, Bernhard Eck, Martin Mevencd, and Richard Dronskowski
+     Cryst. Eng. Comm., **16**, 10907-1-9 (2014)
+
 *  "Thermal physics of the lead chalcogenides PbS, PbSe, and PbTe from first principles"
      Jonathan M. Skelton, Stephen C. Parker, Atsushi Togo, Isao Tanaka, and Aron Walsh,
      Phys. Rev. B **89**, 205203-1-10 (2014)
