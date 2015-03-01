@@ -30,6 +30,12 @@ Associated scientific codes (open source projects)
 Publications
 -------------
 
+*  "First principles study of thermal conductivity cross-over in nanostructured zinc-chalcogenides"
+     Ankita Katre, Atsushi Togo, Isao Tanaka, and Georg K. H. Madsen, J. Appl. Phys. **117**, 045102-1-6 (2015)
+
+*  "Phonon softening in paramagnetic body-centered cubic iron and relationship with phase transition"
+     Yuji Ikeda, Atsuto Seko, Atsushi Togo, and Isao Tanaka, Phys. Rev. B **90**, 134106-1-7 (2014).
+
 *  "Ab initio ORTEP drawings: a case study of N-based molecular crystals with different chemical nature"
      Volker L. Deringer, Ralf P. Stoffel, Atsushi Togo, Bernhard Eck, Martin Mevencd, and Richard Dronskowski
      Cryst. Eng. Comm., **16**, 10907-1-9 (2014)
