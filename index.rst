@@ -67,7 +67,7 @@ Publications
      Phys. Rev. B, **86**, 214301-1-9 (2012)
 
 *  "First-order Raman scattering of the MAX phases: Ti2AlN, Ti2AlC0.5N0.5, Ti2AlC, (Ti0.5V0.5)2AlC, V2AlC, Ti3AlC2, and Ti3GeC2"
-     Volker Presser, Michael Naguib, Laurent Chaput, Atsushi Togo, Gilles Hug and Michel W. Barsoum,
+     Volker Presser, Michael Naguib, Laurent Chaput, Atsushi Togo, Gilles Hug, and Michel W. Barsoum,
      J. Raman Spectrosc., **43**, 168-1-5 (2012)
    
 *  "Phonon-phonon interactions in transition metals"
