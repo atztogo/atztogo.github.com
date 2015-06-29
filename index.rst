@@ -17,14 +17,14 @@ Associated scientific codes (open source projects)
 ---------------------------------------------------
 
 * phonopy_: Phonon calculator and analyzer written in Python
-* cogue_: Automation environment for crystal simulations written in Python
 * spglib_: Crsytal symmetry finder written in C
 * niggli_: Determination of Niggli cell written in C
+* cogue_: Automation environment for crystal simulations written in Python
 
 .. _phonopy: http://phonopy.sf.net
-.. _cogue: https://github.com/atztogo/cogue
 .. _niggli: http://atztogo.github.com/niggli
 .. _spglib: http://spglib.sf.net
+.. _cogue: https://github.com/atztogo/cogue
 
 
 Publications
@@ -66,6 +66,10 @@ Publications
      Nina J. Lane, Sven C. Vogel, Gilles Hug, Atsushi Togo, Laurent Chaput, Lars Hultman, and Michel W. Barsoum,
      Phys. Rev. B, **86**, 214301-1-9 (2012)
 
+*  "First-order Raman scattering of the MAX phases: Ti2AlN, Ti2AlC0.5N0.5, Ti2AlC, (Ti0.5V0.5)2AlC, V2AlC, Ti3AlC2, and Ti3GeC2"
+     Volker Presser, Michael Naguib, Laurent Chaput, Atsushi Togo, Gilles Hug and Michel W. Barsoum,
+     J. Raman Spectrosc., **43**, 168-1-5 (2012)
+   
 *  "Phonon-phonon interactions in transition metals"
      Laurent Chaput, Atsushi Togo, Isao Tanaka, and Gilles Hug,
      Phys. Rev. B, **84**, 094302-1-6 (2011)
@@ -73,7 +77,7 @@ Publications
 *  "Electronic structures of dynamically stable As2O3, Sb2O3, and Bi2O3 crystal polymorphs"
      Akifumi Matsumoto, Yukinori Koyama, Atsushi Togo, Minseok Choi, and Isao Tanaka,
      Phys. Rev. B, **83**, 214110-1-10 (2011)
-     
+
 *  "First-principles phonon calculations of thermal expansion in Ti3SiC2, Ti3AlC2, and Ti3GeC2"
      Atsushi Togo, Laurent Chaput, Isao Tanaka, Gilles Hug,
      Phys. Rev. B, **81**, 174301-1-6 (2010)
