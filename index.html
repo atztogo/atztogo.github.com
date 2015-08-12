@@ -1,5 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -10,7 +9,7 @@
     
     <link rel="stylesheet" href="_static/basic.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="_static/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootswatch-3.2.0/cosmo/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="_static/bootstrap-sphinx.css" type="text/css" />
     
     <script type="text/javascript">
@@ -25,173 +24,122 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/bootstrap.js"></script>
+    <script type="text/javascript" src="_static/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="_static/js/jquery-fix.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-3.2.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="Atsushi Togo  documentation" href="#" />
-<script type="text/javascript">
-(function () {
-  /**
-   * Patch TOC list.
-   *
-   * Will mutate the underlying span to have a correct ul for nav.
-   *
-   * @param $span: Span containing nested UL's to mutate.
-   * @param minLevel: Starting level for nested lists. (1: global, 2: local).
-   */
-  var patchToc = function ($ul, minLevel) {
-    var findA;
-
-    // Find all a "internal" tags, traversing recursively.
-    findA = function ($elem, level) {
-      var level = level || 0,
-        $items = $elem.find("> li > a.internal, > ul, > li > ul");
-
-      // Iterate everything in order.
-      $items.each(function (index, item) {
-        var $item = $(item),
-          tag = item.tagName.toLowerCase(),
-          pad = 15 + ((level - minLevel) * 10);
-
-        if (tag === 'a' && level >= minLevel) {
-          // Add to existing padding.
-          $item.css('padding-left', pad + "px");
-          console.log(level, $item, 'padding-left', pad + "px");
-        } else if (tag === 'ul') {
-          // Recurse.
-          findA($item, level + 1);
-        }
-      });
-    };
-
-    console.log("HERE");
-    findA($ul);
-  };
-
-  $(document).ready(function () {
-    // Add styling, structure to TOC's.
-    $(".dropdown-menu").each(function () {
-      $(this).find("ul").each(function (index, item){
-        var $item = $(item);
-        $item.addClass('unstyled');
-      });
-      $(this).find("li").each(function () {
-        $(this).parent().append(this);
-      });
-    });
-
-    // Patch in level.
-    patchToc($("ul.globaltoc"), 2);
-    patchToc($("ul.localtoc"), 2);
-
-    // Enable dropdown.
-    $('.dropdown-toggle').dropdown();
-  });
-}());
-</script>
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
 
   </head>
   <body role="document">
-  <div id="navbar" class="navbar navbar-fixed-top">
-    <div class="navbar-inner">
-      <div class="container-fluid">
-        <a class="brand" href="#">Atsushi Togo</a>
-        <span class="navbar-text pull-left"><b></b></span>
-          <ul class="nav">
-            <li class="divider-vertical"></li>
-            
-              <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
-  <ul class="dropdown-menu globaltoc"></ul>
-</li>
-              <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
-  <ul class="dropdown-menu localtoc"><ul>
-<li><a class="reference internal" href="#">Atsushi Togo</a><ul>
-<li><a class="reference internal" href="#research-interest">Research interest</a></li>
-<li><a class="reference internal" href="#associated-scientific-codes-open-source-projects">Associated scientific codes (open source projects)</a></li>
-<li><a class="reference internal" href="#publications">Publications</a></li>
-<li><a class="reference internal" href="#contact">Contact</a></li>
-</ul>
-</li>
-</ul>
-</ul>
-  <!--<span class="localtoc"><ul>
-<li><a class="reference internal" href="#">Atsushi Togo</a><ul>
-<li><a class="reference internal" href="#research-interest">Research interest</a></li>
-<li><a class="reference internal" href="#associated-scientific-codes-open-source-projects">Associated scientific codes (open source projects)</a></li>
-<li><a class="reference internal" href="#publications">Publications</a></li>
-<li><a class="reference internal" href="#contact">Contact</a></li>
-</ul>
-</li>
-</ul>
-</span>-->
-</li>
+
+  <div id="navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">
+          Atsushi Togo</a>
+        <span class="navbar-text navbar-version pull-left"><b></b></span>
+      </div>
+
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
             
             
+              <li class="dropdown globaltoc-container">
+  <a role="button"
+     id="dLabelGlobalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="#">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"
+      role="menu"
+      aria-labelledby="dLabelGlobalToc"></ul>
+</li>
               
             
             
-              
-  <li><a href="_sources/index.txt"
-         rel="nofollow">Source</a></li>
+            
+            
             
           </ul>
+
           
             
-<form class="navbar-search pull-right" style="margin-bottom:-3px;" action="search.html" method="get">
-  <input type="text" name="q" placeholder="Search" />
+<form class="navbar-form navbar-right" action="search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" />
+ </div>
   <input type="hidden" name="check_keywords" value="yes" />
   <input type="hidden" name="area" value="default" />
 </form>
           
-          </ul>
         </div>
-      </div>
     </div>
   </div>
 
 <div class="container">
-   
+  <div class="row">
+    <div class="col-md-12">
+      
   <div class="section" id="atsushi-togo">
 <h1>Atsushi Togo<a class="headerlink" href="#atsushi-togo" title="Permalink to this headline">¶</a></h1>
 <p>Computational materials scientist | Program-specific associate professor at <a class="reference external" href="http://esism.kyoto-u.ac.jp/en/index.html">Elements Strategy Initiative for Structural Materials (ESISM)</a> ,Kyoto University.</p>
 <p><a class="reference internal" href="_images/anime25.gif"><img alt="anime" src="_images/anime25.gif" /></a></p>
-<div class="section" id="research-interest">
-<h2>Research interest<a class="headerlink" href="#research-interest" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li>Anharmonicity of crystals.</li>
-<li>Transition pathways among crystal structural phases.</li>
-</ul>
-</div>
 <div class="section" id="associated-scientific-codes-open-source-projects">
 <h2>Associated scientific codes (open source projects)<a class="headerlink" href="#associated-scientific-codes-open-source-projects" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li><a class="reference external" href="http://phonopy.sf.net">phonopy</a>: Phonon calculator and analyzer written in Python</li>
 <li><a class="reference external" href="http://spglib.sf.net">spglib</a>: Crsytal symmetry finder written in C</li>
+<li><a class="reference external" href="https://github.com/atztogo/kspclib">kspclib</a>: Collection of functions for crystal reciprocal space in C</li>
 <li><a class="reference external" href="http://atztogo.github.com/niggli">niggli</a>: Determination of Niggli cell written in C</li>
-<li><a class="reference external" href="https://github.com/atztogo/cogue">cogue</a>: Automation environment for crystal simulations written in Python</li>
+<li><a class="reference external" href="https://github.com/atztogo/cogue">cogue</a>: Automation environment for crystal simulations written in
+Python</li>
+</ul>
+</div>
+<div class="section" id="open-data-project">
+<h2>Open data project<a class="headerlink" href="#open-data-project" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="http://phonondb.mtl.kyoto-u.ac.jp/">phonondb</a>: Phonon calculation database</li>
 </ul>
 </div>
 <div class="section" id="publications">
 <h2>Publications<a class="headerlink" href="#publications" title="Permalink to this headline">¶</a></h2>
 <ul>
 <li><dl class="first docutils">
+<dt>&#8220;First principles phonon calculations in materials science&#8221;</dt>
+<dd><p class="first last">Atsushi Togo and Isao Tanaka,
+Scr. Mater., <strong>108</strong>, 1-1-5 (2015)</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
 <dt>&#8220;Distributions of phonon lifetimes in Brillouin zones&#8221;</dt>
 <dd><p class="first last">Atsushi Togo, Laurent Chaput, and Isao Tanaka,
-Phys. Rev. B <strong>91</strong>, 094306-1-31 (2015)</p>
+Phys. Rev. B, <strong>91</strong>, 094306-1-31 (2015)</p>
 </dd>
 </dl>
 </li>
 <li><dl class="first docutils">
 <dt>&#8220;First principles study of thermal conductivity cross-over in nanostructured zinc-chalcogenides&#8221;</dt>
 <dd><p class="first last">Ankita Katre, Atsushi Togo, Isao Tanaka, and Georg K. H. Madsen,
-J. Appl. Phys. <strong>117</strong>, 045102-1-6 (2015)</p>
+J. Appl. Phys., <strong>117</strong>, 045102-1-6 (2015)</p>
 </dd>
 </dl>
 </li>
 <li><dl class="first docutils">
 <dt>&#8220;Phonon softening in paramagnetic body-centered cubic iron and relationship with phase transition&#8221;</dt>
 <dd><p class="first last">Yuji Ikeda, Atsuto Seko, Atsushi Togo, and Isao Tanaka,
-Phys. Rev. B <strong>90</strong>, 134106-1-7 (2014)</p>
+Phys. Rev. B, <strong>90</strong>, 134106-1-7 (2014)</p>
 </dd>
 </dl>
 </li>
@@ -205,14 +153,14 @@ Cryst. Eng. Comm., <strong>16</strong>, 10907-1-9 (2014)</p>
 <li><dl class="first docutils">
 <dt>&#8220;Thermal physics of the lead chalcogenides PbS, PbSe, and PbTe from first principles&#8221;</dt>
 <dd><p class="first last">Jonathan M. Skelton, Stephen C. Parker, Atsushi Togo, Isao Tanaka, and Aron Walsh,
-Phys. Rev. B <strong>89</strong>, 205203-1-10 (2014)</p>
+Phys. Rev. B, <strong>89</strong>, 205203-1-10 (2014)</p>
 </dd>
 </dl>
 </li>
 <li><dl class="first docutils">
 <dt>&#8220;Inversion Symmetry Breaking by Oxygen Octahedral Rotations in the Ruddlesden-Popper NaRTiO4 Family&#8221;</dt>
 <dd><p class="first last">Hirofumi Akamatsu, Koji Fujita, Toshihiro Kuge, Arnab Sen Gupta, Atsushi Togo, Shiming Lei, Fei Xue, Greg Stone, James M. Rondinelli, Long-Qing Chen, Isao Tanaka, Venkatraman Gopalan, and Katsuhisa Tanaka,
-Phys. Rev. Lett. <strong>112</strong>, 187602-1-5 (2014)</p>
+Phys. Rev. Lett., <strong>112</strong>, 187602-1-5 (2014)</p>
 </dd>
 </dl>
 </li>
@@ -327,10 +275,23 @@ Phys. Rev. B., <strong>74</strong>, 195128-1-8 (2006)</p>
 </div>
 
 
+    </div>
+      
+  </div>
 </div>
 <footer class="footer">
   <div class="container">
-    <p class="pull-right"><a href="#">Back to top</a></p>
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+        <br/>
+        
+<div id="sourcelink">
+  <a href="_sources/index.txt"
+     rel="nofollow">Source</a>
+</div>
+      
+    </p>
     <p>
         &copy; Copyright 2012, Atsushi Togo.<br/>
       Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.3.1.<br/>
