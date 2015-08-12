@@ -7,40 +7,48 @@ Computational materials scientist | Program-specific associate professor at `Ele
 .. |anime| image:: anime25.gif
            :scale: 100
 
-Research interest
-------------------
-
-* Anharmonicity of crystals.
-* Transition pathways among crystal structural phases.
-
 Associated scientific codes (open source projects)
 ---------------------------------------------------
 
 * phonopy_: Phonon calculator and analyzer written in Python
 * spglib_: Crsytal symmetry finder written in C
+* kspclib_: Collection of functions for crystal reciprocal space in C
 * niggli_: Determination of Niggli cell written in C
-* cogue_: Automation environment for crystal simulations written in Python
+* cogue_: Automation environment for crystal simulations written in
+  Python
 
 .. _phonopy: http://phonopy.sf.net
-.. _niggli: http://atztogo.github.com/niggli
 .. _spglib: http://spglib.sf.net
+.. _kspclib: https://github.com/atztogo/kspclib
+.. _niggli: http://atztogo.github.com/niggli
 .. _cogue: https://github.com/atztogo/cogue
+
+Open data project
+-------------------
+
+* phonondb_: Phonon calculation database
+
+.. _phonondb: http://phonondb.mtl.kyoto-u.ac.jp/
 
 
 Publications
 -------------
 
+*  "First principles phonon calculations in materials science"
+     Atsushi Togo and Isao Tanaka,
+     Scr. Mater., **108**, 1-1-5 (2015)
+
 *  "Distributions of phonon lifetimes in Brillouin zones"
      Atsushi Togo, Laurent Chaput, and Isao Tanaka,
-     Phys. Rev. B **91**, 094306-1-31 (2015)
+     Phys. Rev. B, **91**, 094306-1-31 (2015)
 
 *  "First principles study of thermal conductivity cross-over in nanostructured zinc-chalcogenides"
      Ankita Katre, Atsushi Togo, Isao Tanaka, and Georg K. H. Madsen,
-     J. Appl. Phys. **117**, 045102-1-6 (2015)
+     J. Appl. Phys., **117**, 045102-1-6 (2015)
 
 *  "Phonon softening in paramagnetic body-centered cubic iron and relationship with phase transition"
      Yuji Ikeda, Atsuto Seko, Atsushi Togo, and Isao Tanaka,
-     Phys. Rev. B **90**, 134106-1-7 (2014)
+     Phys. Rev. B, **90**, 134106-1-7 (2014)
 
 *  "Ab initio ORTEP drawings: a case study of N-based molecular crystals with different chemical nature"
      Volker L. Deringer, Ralf P. Stoffel, Atsushi Togo, Bernhard Eck, Martin Mevencd, and Richard Dronskowski,
@@ -48,11 +56,11 @@ Publications
 
 *  "Thermal physics of the lead chalcogenides PbS, PbSe, and PbTe from first principles"
      Jonathan M. Skelton, Stephen C. Parker, Atsushi Togo, Isao Tanaka, and Aron Walsh,
-     Phys. Rev. B **89**, 205203-1-10 (2014)
+     Phys. Rev. B, **89**, 205203-1-10 (2014)
 
 *  "Inversion Symmetry Breaking by Oxygen Octahedral Rotations in the Ruddlesden-Popper NaRTiO4 Family"
      Hirofumi Akamatsu, Koji Fujita, Toshihiro Kuge, Arnab Sen Gupta, Atsushi Togo, Shiming Lei, Fei Xue, Greg Stone, James M. Rondinelli, Long-Qing Chen, Isao Tanaka, Venkatraman Gopalan, and Katsuhisa Tanaka,
-     Phys. Rev. Lett. **112**, 187602-1-5 (2014)
+     Phys. Rev. Lett., **112**, 187602-1-5 (2014)
 
 *  "High-pressure torsion of titanium at cryogenic and room temperatures: Grain size effect on allotropic phase transformations"
      Kaveh Edalati, Takeshi Daio, Makoto Arita, Seungwon Lee, Zenji Horita, Atsushi Togo, and Isao Tanaka,
