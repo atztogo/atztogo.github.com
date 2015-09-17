@@ -38,6 +38,10 @@ Publications
      Atsushi Togo and Isao Tanaka,
      Scr. Mater., **108**, 1-1-5 (2015)
 
+*  "Influence of the exchange-correlation functional on the quasi-harmonic lattice dynamics of II-VI semiconductors"
+     Jonathan M. Skelton, Davide Tiana, Stephen C. Parker, Atsushi Togo, Isao Tanaka, Aron Walsh,
+     J. Chem. Phys., **143**, 064710-1-14 (2015)
+
 *  "Distributions of phonon lifetimes in Brillouin zones"
      Atsushi Togo, Laurent Chaput, and Isao Tanaka,
      Phys. Rev. B, **91**, 094306-1-31 (2015)
