@@ -34,12 +34,16 @@ Open data project
 Publications
 -------------
 
+*  "Prediction of Low-Thermal-Conductivity Compounds with First-Principles Anharmonic Lattice Dynamics Calculations and Bayesian Optimization"
+     Atsuto Seko, Atsushi Togo, Hiroyuki Hayashi, Koji Tsuda, Laurent Chaput, and Isao Tanaka,
+     Phys. Rev. Lett, **115**, 205901-1-5 (2015)
+
 *  "First principles phonon calculations in materials science"
      Atsushi Togo and Isao Tanaka,
      Scr. Mater., **108**, 1-1-5 (2015)
 
 *  "Influence of the exchange-correlation functional on the quasi-harmonic lattice dynamics of II-VI semiconductors"
-     Jonathan M. Skelton, Davide Tiana, Stephen C. Parker, Atsushi Togo, Isao Tanaka, Aron Walsh,
+     Jonathan M. Skelton, Davide Tiana, Stephen C. Parker, Atsushi Togo, Isao Tanaka, and Aron Walsh,
      J. Chem. Phys., **143**, 064710-1-14 (2015)
 
 *  "Distributions of phonon lifetimes in Brillouin zones"
@@ -90,6 +94,10 @@ Publications
      Akifumi Matsumoto, Yukinori Koyama, Atsushi Togo, Minseok Choi, and Isao Tanaka,
      Phys. Rev. B, **83**, 214110-1-10 (2011)
 
+*  "Point defects in ZnO: an approach from first principles"
+     Fumiyasu Oba, Minseok Choi, Atsushi Togo, and Isao Tanaka,
+     Sci. Tech. Adv. Mater., **12**, 034302-1-14 (2011)
+
 *  "First-principles phonon calculations of thermal expansion in Ti3SiC2, Ti3AlC2, and Ti3GeC2"
      Atsushi Togo, Laurent Chaput, Isao Tanaka, Gilles Hug,
      Phys. Rev. B, **81**, 174301-1-6 (2010)
@@ -101,7 +109,19 @@ Publications
 *  "Anisotropic phonon density of states in FePt nanoparticles with L10 structure"
      Yoshinori Tamada, Ryo Masuda, Atsushi Togo, Shinpei Yamamoto, Yoshitaka Yoda, Isao Tanaka, Makoto Seto, Saburo Nasu, and Teruo Ono,
      Phys. Rev. B **81**, 132302-1-4 (2010)
-     
+
+*  "Native defects in oxide semiconductors: a density functional approach"
+     Fumiyasu Oba, Minseok Choi, Atsushi Togo, Atsuto Seko, and Isao Tanaka,
+     J. Phys. Condens. Matter, **22**, 384211-1-10 (2010)
+
+*  "Phase relationships and structures of inorganic crystals by a combination of the cluster expansion method and first principles calculations"
+     Isao Tanaka, Atsuto Seko, Atsushi Togo, Yukinori Koyama, and Fumiyasu Oba,
+     J. Phys. Condens. Matter, **22**, 384207-1-8 (2010)
+
+*  "Thermodynamics and structures of oxide crystals by a systematic set of first principles calculations"
+     Isao Tanaka, Atsushi Togo, Atsuto Seko, Fumiyasu Oba, Yukinori Koyama, and Akihide Kuwabara,
+     J. Mater. Chem., **20**, 10335-1-10 (2010)
+
 *  "First-principles calculations of the ferroelastic transition between rutile-type and CaCl2-type SiO2 at high pressures"
      Atsushi Togo, Fumiyasu Oba, and Isao Tanaka,
      Phys. Rev. B, **78**, 134106-1-9 (2008)
