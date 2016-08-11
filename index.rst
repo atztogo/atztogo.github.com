@@ -34,6 +34,10 @@ Open data project
 Publications
 -------------
 
+*  "Anharmonicity in the High-Temperature Cmcm Phase of SnSe: Soft Modes and Three-Phonon Interactions"
+     Jonathan M. Skelton, Lee A. Burton, Stephen C. Parker, Aron Walsh, Chang-Eun Kim, Aloysius Soon, John Buckeridge, Alexey A. Sokol, C. Richard A. Catlow, Atsushi Togo, and Isao Tanaka,
+     Phys. Rev. Lett, **117**,  075502-1-6 (2016)
+
 *  "Prediction of Low-Thermal-Conductivity Compounds with First-Principles Anharmonic Lattice Dynamics Calculations and Bayesian Optimization"
      Atsuto Seko, Atsushi Togo, Hiroyuki Hayashi, Koji Tsuda, Laurent Chaput, and Isao Tanaka,
      Phys. Rev. Lett, **115**, 205901-1-5 (2015)
