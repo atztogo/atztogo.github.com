@@ -42,8 +42,24 @@ Publications
 
 [`Google scholar <https://scholar.google.com/citations?user=z8wRUJAAAAAJ&hl=en>`_]
 
+#. "Descriptors for Machine Learning of Materials Data"
+    Atsuto Seko, Atsushi Togo, and Isao Tanaka,
+    Nanoinformatics 3-23 (2018) [`doi <https://doi.org/10.1007/978-981-10-7617-6_1>`_] open access
+
+#. "DynaPhoPy: A code for extracting phonon quasiparticles from molecular dynamics simulations"
+    Abel Carreras, Atsushi Togo, and Isao Tanaka,
+    Comput. Phys. Commun. **221**, 221-1-14 (2017) [`doi <https://doi.org/10.1016/j.cpc.2017.08.017>`_]
+
+#. "Mode decomposition based on crystallographic symmetry in the band-unfolding method"
+    Yuji Ikeda, Abel Carreras, Atsuto Seko, Atsushi Togo, and Isao Tanaka,
+    Phys. Rev. B **95**, 024305-1-5 (2017) [`doi <https://doi.org/10.1103/PhysRevB.95.02430>`_]
+
+#. "Suppression of lattice thermal conductivity by mass-conserving cation mutation in multi-component semiconductors"
+    Taizo Shibuya, Jonathan M. Skelton, Adam J. Jackson, Kenji Yasuoka, Atsushi Togo, Isao Tanaka, and Aron Walsh,
+    APL Mater. **4**, 104809-1-7 (2016). [`doi <https://doi.org/10.1063/1.4955401>`_] open access
+
 #. "Low phonon conductivity of layered BiCuOS, BiCuOSe, and BiCuOTe from first principles"
-    Hyo Seok Ji, Atsushi Togo, Massoud Kaviany, Isao Tanaka, and Ji Hoon Shim
+    Hyo Seok Ji, Atsushi Togo, Massoud Kaviany, Isao Tanaka, and Ji Hoon Shim,
     Phys. Rev. B, **94**, 115203-1-7 (2016). [`doi <https://doi.org/10.1103/PhysRevB.94.115203>`_]
 
 #. "Anharmonicity in the High-Temperature Cmcm Phase of SnSe: Soft Modes and Three-Phonon Interactions"
@@ -89,19 +105,19 @@ Publications
 #. "High-pressure torsion of titanium at cryogenic and room temperatures: Grain size effect on allotropic phase transformations"
     Kaveh Edalati, Takeshi Daio, Makoto Arita, Seungwon Lee, Zenji Horita, Atsushi Togo, and Isao Tanaka,
     Acta Materialia, **68**, 207–1-7 (2014). [`doi <https://doi.org/10.1016/j.actamat.2014.01.037>`_]
-  
+
 #. "Evolution of crystal structures in metallic elements"
     Atsushi Togo and Isao Tanaka,
     Phys. Rev. B, **87**, 184104-1-6 (2013). [`doi <https://doi.org/10.1103/PhysRevB.87.184104>`_]
 
 #. "Neutron diffraction measurements and first-principles study of thermal motion of atoms in select Mn+1AXn and binary MX transition-metal carbide phases"
     Nina J. Lane, Sven C. Vogel, Gilles Hug, Atsushi Togo, Laurent Chaput, Lars Hultman, and Michel W. Barsoum,
-    Phys. Rev. B, **86**, 214301-1-9 (2012). [`doi <https://doi.org/10.1103/PhysRevB.86.214301>`_] 
+    Phys. Rev. B, **86**, 214301-1-9 (2012). [`doi <https://doi.org/10.1103/PhysRevB.86.214301>`_]
 
 #. "First-order Raman scattering of the MAX phases: Ti2AlN, Ti2AlC0.5N0.5, Ti2AlC, (Ti0.5V0.5)2AlC, V2AlC, Ti3AlC2, and Ti3GeC2"
     Volker Presser, Michael Naguib, Laurent Chaput, Atsushi Togo, Gilles Hug, and Michel W. Barsoum,
     J. Raman Spectrosc., **43**, 168-1-5 (2012). [`doi <https://doi.org/10.1002/jrs.3036>`_]
-  
+
 #. "Phonon-phonon interactions in transition metals"
     Laurent Chaput, Atsushi Togo, Isao Tanaka, and Gilles Hug,
     Phys. Rev. B, **84**, 094302-1-6 (2011). [`doi <https://doi.org/10.1103/PhysRevB.84.094302>`_]
