@@ -42,6 +42,10 @@ Publications
 
 [`Google scholar <https://scholar.google.com/citations?user=z8wRUJAAAAAJ&hl=en>`_]
 
+#. "Lattice thermal conductivities of two SiO2 polymorphs by first-principles calculations and the phonon Boltzmann transport equation"
+    Keiyu Mizokami, Atsushi Togo, and Isao Tanaka,
+    Phys. Rev. B **97**, 224306-1-10 (2018) [`doi <https://doi.org/10.1103/PhysRevB.97.224306>`_] open access
+
 #. "Descriptors for Machine Learning of Materials Data"
     Atsuto Seko, Atsushi Togo, and Isao Tanaka,
     Nanoinformatics 3-23 (2018) [`doi <https://doi.org/10.1007/978-981-10-7617-6_1>`_] open access
