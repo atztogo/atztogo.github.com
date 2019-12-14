@@ -42,6 +42,18 @@ Publications
 
 [`Google scholar <https://scholar.google.com/citations?user=z8wRUJAAAAAJ&hl=en>`_]
 
+#. "Finite-displacement computation of the electron-phonon interaction within the projector augmented-wave method"
+    Laurent Chaput, Atsushi Togo, and Isao Tanaka,
+    Phys. Rev. B **100**, 174304-1-19 (2019) [`doi <https://doi.org/10.1103/PhysRevB.100.174304>`_]
+
+#. "Group-theoretical high-order rotational invariants for structural representations: Application to linearized machine learning interatomic potential"
+    Atsuto Seko, Atsushi Togo, and Isao Tanaka,
+    Phys. Rev. B **99**, 214108-1-14 (2019) [`doi <https://doi.org/10.1103/PhysRevB.99.214108>`_]
+
+#. "Provenance, workflows, and crystallographic tools in materials science: AiiDA, spglib, and seekpath"
+    Giovanni Pizzi, Atsushi Togo, and Boris Kozinsky,
+    MRS Bull. **43**, 696-1-7 (2018) [`doi <https://doi.org/10.1557/mrs.2018.203>`_]
+
 #. "Lattice thermal conductivities of two SiO2 polymorphs by first-principles calculations and the phonon Boltzmann transport equation"
     Keiyu Mizokami, Atsushi Togo, and Isao Tanaka,
     Phys. Rev. B **97**, 224306-1-10 (2018) [`doi <https://doi.org/10.1103/PhysRevB.97.224306>`_] open access
