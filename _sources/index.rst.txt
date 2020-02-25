@@ -1,13 +1,10 @@
 Atsushi Togo
-=====================
+============
 
-(Computational materials scientist working for `Elements Strategy Initiative for
-Structural Materials (ESISM)
-<http://esism.kyoto-u.ac.jp/en/index.html>`_ in Kyoto University)
+(Computational materials scientist)
 
-My job is to explore actually useful materials by computer
-simulation. Phonon calculation is the main tool to investigate
-materials and for which I develop scientific software.
+My job is to explore useful solid solid state materials by computer
+simulation.
 
 |anime|
 
@@ -23,7 +20,7 @@ Associated scientific codes (open source projects)
 * kspclib_: Collection of functions for crystal reciprocal space in C
 * niggli_: Determination of Niggli cell written in C
 
-.. _phonopy: https://atztogo.github.io/phonopy/
+.. _phonopy: https://phonopy.github.io/phonopy/
 .. _phono3py: https://atztogo.github.io/phono3py/
 .. _spglib: https://atztogo.github.io/spglib/
 .. _kspclib: https://github.com/atztogo/kspclib
