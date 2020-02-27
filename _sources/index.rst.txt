@@ -190,5 +190,10 @@ Publications
 Contact
 -------
 
+For questions of phonopy and phono3py, please send e-mails to
+phonopy-users@lists.sourceforge.net. For those of spglib,
+spglib-users@lists.sourceforge.net. For more technical issues on the
+code developments, their github issues or pull requests. Otherwise:
+
 * e-mail: togo.atsushi.f40@kyoto-u.jp
 * github: https://github.com/atztogo
