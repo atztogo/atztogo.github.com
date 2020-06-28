@@ -39,6 +39,10 @@ Publications
 
 [`Google scholar <https://scholar.google.com/citations?user=z8wRUJAAAAAJ&hl=en>`_]
 
+#. "Phonon structure of titanium under shear deformation along {10-12} twinning mode"
+    Atsushi Togo, Yuta Inoue, Isao Tanaka,
+    Phys. Rev. B (2020) [`arXiv <https://arxiv.org/abs/2003.01403>`_]
+
 #. "Finite-displacement computation of the electron-phonon interaction within the projector augmented-wave method"
     Laurent Chaput, Atsushi Togo, and Isao Tanaka,
     Phys. Rev. B **100**, 174304-1-19 (2019) [`doi <https://doi.org/10.1103/PhysRevB.100.174304>`_]
