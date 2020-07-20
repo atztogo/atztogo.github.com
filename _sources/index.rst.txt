@@ -1,47 +1,36 @@
-Atsushi Togo
-============
+Research
+========
 
-(Computational materials scientist)
+`Google scholar <https://scholar.google.com/citations?user=z8wRUJAAAAAJ&hl=en>`_
 
-My job is to explore useful solid solid state materials by computer
-simulation.
+Contact
+-------
 
-|anime|
+For questions of phonopy and phono3py, please send e-mails to
+phonopy-users@lists.sourceforge.net. For those of spglib,
+spglib-users@lists.sourceforge.net. For more technical issues on the
+code developments, their github issues or pull requests. Otherwise:
 
-.. |anime| image:: anime25.gif
-           :scale: 100
+* e-mail: togo.atsushi.f40@kyoto-u.jp
+* github: https://github.com/atztogo
 
-Associated scientific codes (open source projects)
----------------------------------------------------
+Scientific code and open data projects
+--------------------------------------
 
-* phonopy_: Phonon calculator and analyzer written in Python
-* phono3py_: Phonon-phonon interaction and lattice theraml conductivity calculator written in Python
-* spglib_: Crsytal symmetry finder written in C
-* kspclib_: Collection of functions for crystal reciprocal space in C
-* niggli_: Determination of Niggli cell written in C
+phonopy_, phono3py_, spglib_, phonondb_
 
 .. _phonopy: https://phonopy.github.io/phonopy/
-.. _phono3py: https://atztogo.github.io/phono3py/
-.. _spglib: https://atztogo.github.io/spglib/
-.. _kspclib: https://github.com/atztogo/kspclib
-.. _niggli: https://atztogo.github.com/niggli
-
-Open data project
--------------------
-
-* phonondb_: Phonon calculation database
-
+.. _phono3py: https://phonopy.github.io/phono3py/
+.. _spglib: https://spglib.github.io/spglib/
 .. _phonondb: http://phonondb.mtl.kyoto-u.ac.jp/
 
 
 Publications
 -------------
 
-[`Google scholar <https://scholar.google.com/citations?user=z8wRUJAAAAAJ&hl=en>`_]
-
 #. "Phonon structure of titanium under shear deformation along {10-12} twinning mode"
     Atsushi Togo, Yuta Inoue, Isao Tanaka,
-    Phys. Rev. B (2020) [`arXiv <https://arxiv.org/abs/2003.01403>`_]
+    Phys. Rev. B **102**, 024106-1-7 (2020) [`doi <https://doi.org/10.1103/PhysRevB.102.024106>`_] open access
 
 #. "Finite-displacement computation of the electron-phonon interaction within the projector augmented-wave method"
     Laurent Chaput, Atsushi Togo, and Isao Tanaka,
@@ -190,14 +179,3 @@ Publications
 #. "First-principles calculations of native defects in tin monoxide"
     Atsushi Togo, Fumiyasu. Oba, Isao. Tanaka, and Kazuyoshi Tatsumi,
     Phys. Rev. B., **74**, 195128-1-8 (2006). [`doi <https://doi.org/10.1103/PhysRevB.74.195128>`_]
-
-Contact
--------
-
-For questions of phonopy and phono3py, please send e-mails to
-phonopy-users@lists.sourceforge.net. For those of spglib,
-spglib-users@lists.sourceforge.net. For more technical issues on the
-code developments, their github issues or pull requests. Otherwise:
-
-* e-mail: togo.atsushi.f40@kyoto-u.jp
-* github: https://github.com/atztogo
