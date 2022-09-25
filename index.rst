@@ -27,6 +27,13 @@ phonopy_, phono3py_, spglib_, phonondb_
 
 Publications
 -------------
+#. "LO-mode phonon of KCl and NaCl at 300 K by inelastic x-ray scattering measurements and first principles calculations
+    Atsushi Togo, Hiroyuki Hayashi, Terumasa Tadano, Satoshi Tsutsui, Isao Tanaka,
+    J. Phys.: Condens. Matter **34**, 365401-1-15 (2022) [`doi <https://doi.org/10.1088/1361-648X/ac7b01>`_] open access
+
+#. "Structural dynamics of Schottky and Frenkel defects in ThO2: a density-functional theory study"
+    Samuel Moxon, Jonathan Skelton, S Tse Joshua, Joseph Flitcroft, Atsushi Togo, David J Cooke, E Lora Da Silva, Robert M Harker, Mark T Storr, Stephen C Parker, Marco Molinari,
+    J. Mater. Chem. A **10**, 1861-1-15 (2022) [`doi <https://doi.org/10.1039/D1TA10072F>`_] open access
 
 #. "Phonon structure of titanium under shear deformation along {10-12} twinning mode"
     Atsushi Togo, Yuta Inoue, Isao Tanaka,
@@ -70,11 +77,11 @@ Publications
 
 #. "Anharmonicity in the High-Temperature Cmcm Phase of SnSe: Soft Modes and Three-Phonon Interactions"
     Jonathan M. Skelton, Lee A. Burton, Stephen C. Parker, Aron Walsh, Chang-Eun Kim, Aloysius Soon, John Buckeridge, Alexey A. Sokol, C. Richard A. Catlow, Atsushi Togo, and Isao Tanaka,
-    Phys. Rev. Lett, **117**,  075502-1-6 (2016). [`doi <https://doi.org/10.1103/PhysRevLett.117.075502>`_] open access
+    Phys. Rev. Lett., **117**,  075502-1-6 (2016). [`doi <https://doi.org/10.1103/PhysRevLett.117.075502>`_] open access
 
 #. "Prediction of Low-Thermal-Conductivity Compounds with First-Principles Anharmonic Lattice Dynamics Calculations and Bayesian Optimization"
     Atsuto Seko, Atsushi Togo, Hiroyuki Hayashi, Koji Tsuda, Laurent Chaput, and Isao Tanaka,
-    Phys. Rev. Lett, **115**, 205901-1-5 (2015). [`doi <https://doi.org/10.1103/PhysRevLett.115.205901>`_]
+    Phys. Rev. Lett., **115**, 205901-1-5 (2015). [`doi <https://doi.org/10.1103/PhysRevLett.115.205901>`_]
 
 #. "First principles phonon calculations in materials science"
     Atsushi Togo and Isao Tanaka,
@@ -150,11 +157,11 @@ Publications
 
 #. "Native defects in oxide semiconductors: a density functional approach"
     Fumiyasu Oba, Minseok Choi, Atsushi Togo, Atsuto Seko, and Isao Tanaka,
-    J. Phys. Condens. Matter, **22**, 384211-1-10 (2010). [`doi <https://doi.org/10.1088/0953-8984/22/38/384211>`_]
+    J. Phys.: Condens. Matter, **22**, 384211-1-10 (2010). [`doi <https://doi.org/10.1088/0953-8984/22/38/384211>`_]
 
 #. "Phase relationships and structures of inorganic crystals by a combination of the cluster expansion method and first principles calculations"
     Isao Tanaka, Atsuto Seko, Atsushi Togo, Yukinori Koyama, and Fumiyasu Oba,
-    J. Phys. Condens. Matter, **22**, 384207-1-8 (2010). [`doi <https://doi.org/10.1088/0953-8984/22/38/384207>`_]
+    J. Phys.: Condens. Matter, **22**, 384207-1-8 (2010). [`doi <https://doi.org/10.1088/0953-8984/22/38/384207>`_]
 
 #. "Thermodynamics and structures of oxide crystals by a systematic set of first principles calculations"
     Isao Tanaka, Atsushi Togo, Atsuto Seko, Fumiyasu Oba, Yukinori Koyama, and Akihide Kuwabara,
