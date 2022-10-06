@@ -27,7 +27,11 @@ phonopy_, phono3py_, spglib_, phonondb_
 
 Publications
 -------------
-#. "LO-mode phonon of KCl and NaCl at 300 K by inelastic x-ray scattering measurements and first principles calculations
+#. "Zero-point renormalization of the band gap of semiconductors and insulators using the projector augmented wave method"
+    Manuel Engel, Henrique Miranda, Laurent Chaput, Atsushi Togo, Carla Verdi, Martijn Marsman, and Georg Kresse,
+    Phys. Rev. B **106**, 094316-1-19 (2022) [`doi <https://doi.org/10.1103/PhysRevB.106.094316>`_]
+
+#. "LO-mode phonon of KCl and NaCl at 300 K by inelastic x-ray scattering measurements and first principles calculations"
     Atsushi Togo, Hiroyuki Hayashi, Terumasa Tadano, Satoshi Tsutsui, Isao Tanaka,
     J. Phys.: Condens. Matter **34**, 365401-1-15 (2022) [`doi <https://doi.org/10.1088/1361-648X/ac7b01>`_] open access
 
