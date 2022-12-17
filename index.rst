@@ -27,6 +27,10 @@ phonopy_, phono3py_, spglib_, phonondb_
 
 Publications
 -------------
+#. "First-principles Phonon Calculations with Phonopy and Phono3py"
+    Atsushi Togo,
+    J. Phys. Soc. Jpn. **92**, 012001-1-21 (2023) [`doi <https://doi.org/10.7566/JPSJ.92.012001>`_] open access
+
 #. "Zero-point renormalization of the band gap of semiconductors and insulators using the projector augmented wave method"
     Manuel Engel, Henrique Miranda, Laurent Chaput, Atsushi Togo, Carla Verdi, Martijn Marsman, and Georg Kresse,
     Phys. Rev. B **106**, 094316-1-19 (2022) [`doi <https://doi.org/10.1103/PhysRevB.106.094316>`_]
