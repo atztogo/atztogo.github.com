@@ -27,6 +27,14 @@ phonopy_, phono3py_, spglib_, phonondb_
 
 Publications
 -------------
+#. "Implementation strategies in phonopy and phono3py"
+    Atsushi Togo, Laurent Chaput, Terumasa Tadano, Isao Tanaka,
+    J. Phys.: Condens. Matter, accepted (2023) [`doi <https://doi.org/10.1088/1361-648x/acd831>`_] open access
+
+#. "spgrep: On-the-fly generator of space-group irreducible representations"
+    Kohei Shinohara, Atsushi Togo, Isao Tanaka,
+    J. Open Source Softw., Published 23 May, 1-3 (2023) [`doi <https://doi.org/10.21105/joss.05269>`_] open access
+
 #. "First-principles Phonon Calculations with Phonopy and Phono3py"
     Atsushi Togo,
     J. Phys. Soc. Jpn. **92**, 012001-1-21 (2023) [`doi <https://doi.org/10.7566/JPSJ.92.012001>`_] open access
