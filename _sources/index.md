@@ -1,10 +1,8 @@
-#
+# Atsushi Togo
 ##
 
 ```{figure} anime25.gif
 :align: center
-Atsushi Togo<br>
-I am a computational materials scientist.
 ```
 
 ### Scientific code and data projects
@@ -12,16 +10,20 @@ I am a computational materials scientist.
 * [phonopy](https://phonopy.github.io/phonopy/) : Phonon calculation
 * [phono3py](https://phonopy.github.io/phono3py/) : Anaharmonic phonon and lattice thermal conductivity calculations
 * [spglib](https://spglib.readthedocs.io/en/latest/) : Crystallographic symmetry finder
-* [phonondb](http://phonondb.mtl.kyoto-u.ac.jp/) : Phonon calculation database
+* [phonondb](https://github.com/atztogo/phonondb) : Phonon calculation database
 
 
 ### Publications
 
 [Visit google scholar (Atsushi Togo)](https://scholar.google.com/citations?user=z8wRUJAAAAAJ&hl=en>)
 
+1. "Algorithms for magnetic symmetry operation search and identification of magnetic space group from magnetic crystal structure"
+    Kohei Shinohara, Atsushi Togo, and Isao Tanaka, Acta. Cryst. A **79**, 390-1-9 (2023) [[doi](https://doi.org/10.1107/S2053273323005016)] open access
+
+
 1. "Implementation strategies in phonopy and phono3py"
     Atsushi Togo, Laurent Chaput, Terumasa Tadano, Isao Tanaka,
-    J. Phys.: Condens. Matter **35**, 353001-353022 (2023) [[doi](https://doi.org/10.1088/1361-648x/acd831)] open access
+    J. Phys.: Condens. Matter **35**, 353001-1-22 (2023) [[doi](https://doi.org/10.1088/1361-648x/acd831)] open access
 
 1. "spgrep: On-the-fly generator of space-group irreducible representations"
     Kohei Shinohara, Atsushi Togo, Isao Tanaka,
