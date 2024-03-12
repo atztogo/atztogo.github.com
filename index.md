@@ -17,6 +17,10 @@
 
 [Visit google scholar (Atsushi Togo)](https://scholar.google.com/citations?user=z8wRUJAAAAAJ&hl=en>)
 
+1. "Algorithm for spin symmetry operation search"
+    Kohei Shinohara, Atsushi Togo, Hikaru Watanabe, Takuya Nomoto, Isao Tanaka, and Ryotaro Arita, Acta. Cryst. A **80**, 94-1-10 (2024)
+    [[doi](https://doi.org/10.1107/S2053273323009257)]
+
 1. "Algorithms for magnetic symmetry operation search and identification of magnetic space group from magnetic crystal structure"
     Kohei Shinohara, Atsushi Togo, and Isao Tanaka, Acta. Cryst. A **79**, 390-1-9 (2023) [[doi](https://doi.org/10.1107/S2053273323005016)] open access
 
