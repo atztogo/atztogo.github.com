@@ -17,6 +17,16 @@
 
 [Visit google scholar (Atsushi Togo)](https://scholar.google.com/citations?user=z8wRUJAAAAAJ&hl=en>)
 
+1. "Symmetry classification of 2D materials: layer groups versus space groups
+   Jingheng Fu, Mikael Kuisma, Ask Hjorth Larsen, Kohei Shinohara, Atsushi Togo, and Kristian S Thygesen,
+   2D Mater. **11**, 035009-1-13 (2024)
+   [[doi](https://doi.org/10.1088/2053-1583/ad3e0c)] open access
+
+1. "Symmetry analysis with spin crystallographic groups: Disentangling effects free of spin-orbit coupling in emergent electromagnetism"
+   Hikaru Watanabe, Kohei Shinohara, Takuya Nomoto, Atsushi Togo, and Ryotaro Arita,
+   Phys. Rev. B **109**, 09443-1-25 (2024)
+   [[doi](https://doi.org/10.1103/PhysRevB.109.094438)]
+
 1. "Algorithm for spin symmetry operation search"
     Kohei Shinohara, Atsushi Togo, Hikaru Watanabe, Takuya Nomoto, Isao Tanaka, and Ryotaro Arita, Acta. Cryst. A **80**, 94-1-10 (2024)
     [[doi](https://doi.org/10.1107/S2053273323009257)]
