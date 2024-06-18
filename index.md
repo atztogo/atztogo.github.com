@@ -17,6 +17,11 @@
 
 [Visit google scholar (Atsushi Togo)](https://scholar.google.com/citations?user=z8wRUJAAAAAJ&hl=en>)
 
+1. "On-the-fly training of polynomial machine learning potentials in computing lattice thermal conductivity"
+   Atsushi Togo, Atsuto Seko,
+   J. Chem. Phys. **160**, 211001-1-11 (2024)
+   [[doi](https://doi.org/10.1063/5.0211296)]
+
 1. "Symmetry classification of 2D materials: layer groups versus space groups
    Jingheng Fu, Mikael Kuisma, Ask Hjorth Larsen, Kohei Shinohara, Atsushi Togo, and Kristian S Thygesen,
    2D Mater. **11**, 035009-1-13 (2024)
