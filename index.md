@@ -17,12 +17,17 @@
 
 [Visit google scholar (Atsushi Togo)](https://scholar.google.com/citations?user=z8wRUJAAAAAJ&hl=en>)
 
+1. "Spglib: a software library for crystal symmetry search"
+   Atsushi Togo, Kohei Shinohara, and Isao Tanaka
+   Sci. technol. adv. material, Meth. **4**, 2384822-1-15 (2004)
+   [[doi](https://doi.org/10.1080/27660400.2024.2384822)]
+
 1. "On-the-fly training of polynomial machine learning potentials in computing lattice thermal conductivity"
    Atsushi Togo, Atsuto Seko,
    J. Chem. Phys. **160**, 211001-1-11 (2024)
    [[doi](https://doi.org/10.1063/5.0211296)]
 
-1. "Symmetry classification of 2D materials: layer groups versus space groups
+1. "Symmetry classification of 2D materials: layer groups versus space groups"
    Jingheng Fu, Mikael Kuisma, Ask Hjorth Larsen, Kohei Shinohara, Atsushi Togo, and Kristian S Thygesen,
    2D Mater. **11**, 035009-1-13 (2024)
    [[doi](https://doi.org/10.1088/2053-1583/ad3e0c)] open access
