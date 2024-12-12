@@ -17,15 +17,19 @@
 
 [Visit google scholar (Atsushi Togo)](https://scholar.google.com/citations?user=z8wRUJAAAAAJ&hl=en>)
 
+1. "Projector-based efficient estimation of force constants"
+   Atsuto Seko and Atsushi Togo, Phys. Rev. B **110**, 214302-1-18 (2024)
+   [[doi](https://doi.org/10.1103/PhysRevB.110.214302)] [[arXiv](https://arxiv.org/abs/2403.03588)]
+
 1. "Spglib: a software library for crystal symmetry search"
    Atsushi Togo, Kohei Shinohara, and Isao Tanaka
    Sci. technol. adv. material, Meth. **4**, 2384822-1-15 (2004)
-   [[doi](https://doi.org/10.1080/27660400.2024.2384822)]
+   [[doi](https://doi.org/10.1080/27660400.2024.2384822)] open access
 
 1. "On-the-fly training of polynomial machine learning potentials in computing lattice thermal conductivity"
    Atsushi Togo, Atsuto Seko,
    J. Chem. Phys. **160**, 211001-1-11 (2024)
-   [[doi](https://doi.org/10.1063/5.0211296)]
+   [[doi](https://doi.org/10.1063/5.0211296)] [[arXiv](https://arxiv.org/abs/2401.17531)]
 
 1. "Symmetry classification of 2D materials: layer groups versus space groups"
    Jingheng Fu, Mikael Kuisma, Ask Hjorth Larsen, Kohei Shinohara, Atsushi Togo, and Kristian S Thygesen,
@@ -35,11 +39,11 @@
 1. "Symmetry analysis with spin crystallographic groups: Disentangling effects free of spin-orbit coupling in emergent electromagnetism"
    Hikaru Watanabe, Kohei Shinohara, Takuya Nomoto, Atsushi Togo, and Ryotaro Arita,
    Phys. Rev. B **109**, 09443-1-25 (2024)
-   [[doi](https://doi.org/10.1103/PhysRevB.109.094438)]
+   [[doi](https://doi.org/10.1103/PhysRevB.109.094438)] [[arXiv](https://arxiv.org/abs/2307.11560)]
 
 1. "Algorithm for spin symmetry operation search"
     Kohei Shinohara, Atsushi Togo, Hikaru Watanabe, Takuya Nomoto, Isao Tanaka, and Ryotaro Arita, Acta. Cryst. A **80**, 94-1-10 (2024)
-    [[doi](https://doi.org/10.1107/S2053273323009257)]
+    [[doi](https://doi.org/10.1107/S2053273323009257)] [[arXiv](https://arxiv.org/abs/2307.12228)]
 
 1. "Algorithms for magnetic symmetry operation search and identification of magnetic space group from magnetic crystal structure"
     Kohei Shinohara, Atsushi Togo, and Isao Tanaka, Acta. Cryst. A **79**, 390-1-9 (2023) [[doi](https://doi.org/10.1107/S2053273323005016)] open access
@@ -59,7 +63,7 @@
 
 1. "Zero-point renormalization of the band gap of semiconductors and insulators using the projector augmented wave method"
     Manuel Engel, Henrique Miranda, Laurent Chaput, Atsushi Togo, Carla Verdi, Martijn Marsman, and Georg Kresse,
-    Phys. Rev. B **106**, 094316-1-19 (2022) [[doi](https://doi.org/10.1103/PhysRevB.106.094316)]
+    Phys. Rev. B **106**, 094316-1-19 (2022) [[doi](https://doi.org/10.1103/PhysRevB.106.094316)] [[arXiv](https://arxiv.org/abs/2205.04265)]
 
 1. "LO-mode phonon of KCl and NaCl at 300 K by inelastic x-ray scattering measurements and first principles calculations"
     Atsushi Togo, Hiroyuki Hayashi, Terumasa Tadano, Satoshi Tsutsui, Isao Tanaka,
