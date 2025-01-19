@@ -23,7 +23,7 @@
 
 1. "Spglib: a software library for crystal symmetry search"
    Atsushi Togo, Kohei Shinohara, and Isao Tanaka
-   Sci. technol. adv. material, Meth. **4**, 2384822-1-15 (2004)
+   Sci. technol. adv. material, Meth. **4**, 2384822-1-15 (2024)
    [[doi](https://doi.org/10.1080/27660400.2024.2384822)] open access
 
 1. "On-the-fly training of polynomial machine learning potentials in computing lattice thermal conductivity"
